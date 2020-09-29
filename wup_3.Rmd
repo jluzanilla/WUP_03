@@ -58,5 +58,6 @@ plot(TukeyHSD(model1))
 ```
 
 ## Conclusions
+Based on the charts above, the back row is drinking nearly 10 times the amount of drinks compared to the front row and approximately 3 times as many drinks than the middle row. Based on the inferential graphs, we can conclude that the Middle and Front row have a relationship consisting of nearly the same results and the Back row shares no relationship with any of the other results.  
 
 
